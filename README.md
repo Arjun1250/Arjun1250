@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final-year engineering student in Electronics and Communication.<br>I'm currently learning Robotic Process Automation.<br>I've got a small hands-on experience in web development (Frontend) & also managed to build a personnel portfolio website.<br>I also like to do mobile photography and image manipulation as well.<br>
+🙋‍♂️I'm a final-year engineering student in Electronics and Communication.<br>📑I'm currently learning Robotic Process Automation.<br>🌐I've got a small hands-on experience in web development (Frontend) & also managed to build a personnel portfolio website.<br>📷I also like to do mobile photography and image manipulation as well.<br>
 
 
 ## 🌐 Socials:
